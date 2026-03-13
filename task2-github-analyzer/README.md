@@ -1,5 +1,7 @@
 # GitHub Repository Intelligence Analyzer
 
+**🌍 Live Demo / Deployment:** [View on Vercel](https://vercel.com/prathamjanis-projects)
+
 A sophisticated Next.js application that analyzes multiple GitHub repositories and generates insights about their activity, complexity, and learning difficulty. 
 Built specifically for WebiU Pre-GSoC 2026 Tasks.
 
