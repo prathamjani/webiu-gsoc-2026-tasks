@@ -82,4 +82,4 @@ https://github.com/octokit/rest.js
 ```
 
 ### Dashboard View:
-![Live Interface showing Intelligence Reports on parsed Next, React, framer-motion endpoints](/Users/pratham/Desktop/project/webiu-gsoc-2026-tasks/task2-github-analyzer/public/example_analysis.png)
+![Live Interface showing Intelligence Reports](./public/example_analysis.png)
